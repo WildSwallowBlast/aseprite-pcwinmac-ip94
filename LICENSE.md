@@ -1,4 +1,4 @@
-# 
+# Avançado Aseprite efeitos para Mac OS | Turbo Aseprite efeitos para PC Windows. Com estilos de parágrafo e nós de geometria — otimizado para máximo desempenho em cada plataforma.
 
 
 
